@@ -26,10 +26,10 @@ Por: 3306
 UserName: root
 Password: root
 
-Uma vez conectado, executar o script localizado na pasta
+Uma vez conectado, copiar o esqueleto: localizado na pasta
 
 ./BD/script.sql
 
-Nele contem, o script de criação do Database gulliverdatabase, criação da tabela Restaurante e inserção de três novos registros.
+E jogar no SQL workbenq, para gerar as tabelas e copular as mesmas.
 
 Feito isso, basta Executar o projeto, utilizamos o Ecplipse e subir no servidor local, aqui usamos o Tomcat.
