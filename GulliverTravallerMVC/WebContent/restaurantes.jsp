@@ -151,7 +151,7 @@
           <i class="fa-solid fa-heart"></i>
         </div>
         <div class="info-restaurantes">
-          <h2 class="nome-restaurante"><%=restaurante.getTitulo() %> <span>Vini</span></h2>
+          <h2 class="nome-restaurante"><span><%=restaurante.getTitulo() %> </span></h2>
           <i class="fa-solid fa-star"></i>
           <i class="fa-solid fa-star"></i>
           <i class="fa-solid fa-star"></i>
